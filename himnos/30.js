@@ -1,0 +1,31 @@
+export default {
+    nombre: "EL CIELO CANTA ALEGRIA",
+    letra: [
+        "Am                              F  Am",
+        "El cielo canta alegría, aleluya",
+        "Am",
+        "Porque tu vida y la mía",
+        "E7           Am",
+        "Las une el amor de Dios",
+        "",
+        "Coro",
+        "G   Am  E7    Am",
+        "Aleluya, aleluya",
+        "G   Am  E7    Am – E7 –Am– E7 –Am",
+        "Aleluya, aleluya",
+        "",
+        "Am                              F  Am",
+        "El cielo canta alegría, aleluya",
+        "Am",
+        "Porque tu vida y la mía",
+        "E7        Am",
+        "Proclamaran al Señor",
+        "",
+        "Am                              F  Am",
+        "El cielo canta alegría, aleluya",
+        "Am",
+        "Porque tu vida y la mía",
+        "E7         Am",
+        "Verán la gloria de Dios"
+    ].join('\n')
+};

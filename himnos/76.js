@@ -1,0 +1,33 @@
+export default {
+    nombre: "SALMO 150",
+    letra: [
+        "G           Em   Am             D7",
+        "//Lo que respira alabe a Jehová",
+        "G           Em   Am             D7",
+        "Lo que respira alabe a Jehová",
+        "G                                           Em",
+        "Alabad a nuestro Dios en su santuario",
+        "Am",
+        "En la hermosura de su cielo",
+        "D7",
+        "Por sus proezas alabadle a El",
+        "G                                           Em",
+        "Alabadle por la grandeza de su nombre",
+        "Am",
+        "Con el sonido de bocinas",
+        "D7",
+        "Salterio y arpa a la vez cantad",
+        "Am      D7                        G   - Em",
+        "Alabadle con el alegre pandero",
+        "Am    - D7",
+        "Con el candor de una danza",
+        "G  - G7",
+        "Cantad con gozo al Señor",
+        "Am      D7                               G       - Em",
+        "Alabadle con cuerdas, flautas y címbalo",
+        "Am    D7",
+        "De júbilo resonantes en su lenguaje todo//",
+        "G           Em   Am             D7",
+        "////Lo que respira alabe a Jehová////"
+    ].join('\n')
+};

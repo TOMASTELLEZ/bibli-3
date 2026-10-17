@@ -1,0 +1,32 @@
+export default {
+    nombre: "OTRO JOVEN PARA CRISTO",
+    letra: [
+        "Intro",
+        "C F G C F",
+        "G     C                                 F          G",
+        "Otro joven para Cristo, Otra vida para El",
+        "F               G              C                 G",
+        "Otra voluntad rendida a los pies del Salvador",
+        "C                                F                G",
+        "Otro joven para Cristo, La semilla que creció",
+        "F                   G               C              C7",
+        "Ha venido a darnos frutos para gloria del Señor",
+        "",
+        "Coro",
+        "F             G                 Em         Am",
+        "Nuevas manos al arado, Nuevos pies a caminar",
+        "Dm                 G                C                 C7",
+        "Nueva sangre a derramarse por el nombre de Jesús",
+        "F                    G            Em              Am",
+        "Nuevos labios que proclaman el amor del Salvador",
+        "F               G              F      G    C",
+        "",
+        "Otro joven para Cristo, Otra vida para El",
+        "Intro",
+        "C F G C F",
+        "G     C                                 F               G",
+        "Una vida se termina, pero empieza otra más",
+        "F                  G               C              C7",
+        "Con dos manos que sostienen la bandera de la cruz"
+    ].join('\n')
+};

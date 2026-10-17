@@ -1,0 +1,32 @@
+export default {
+    nombre: "ME HA TOCADO",
+    letra: [
+        "C",
+        "En pecado yo vivía",
+        "C                         Am",
+        "en tinieblas y en error",
+        "F         C",
+        "Mas la mano de mi Cristo",
+        "G                        C",
+        "Me toco y salvo ya soy",
+        "",
+        "Coro",
+        "F                      C",
+        "Me ha tocado, si me ha tocado",
+        "F     C                    G",
+        "y ahora se que el Salvador",
+        "C      F       C            G",
+        "Sana, salva, viene por mí",
+        "C        F             C",
+        "Me ha tocado, Cristo el Señor",
+        "",
+        "C",
+        "Desde que encontré al Maestro",
+        "C                           Am",
+        "Desde que el lavo mi ser",
+        "F                         C",
+        "Nunca dejare de alabarle",
+        "G                              C",
+        "Hasta que regrese otra vez"
+    ].join('\n')
+};

@@ -1,0 +1,31 @@
+export default {
+    nombre: "SOMOS UNO EN ESPIRITU",
+    letra: [
+        "Em",
+        "Somos uno en espíritu y en el Señor",
+        "Am                    Em",
+        "Somos uno en espíritu y en el Señor",
+        "Am                                 Em",
+        "y oramos que un día sea completa nuestra unión",
+        "",
+        "Coro",
+        "C",
+        "Y que somos cristianos lo sabrán",
+        "Am              Em       Am                 Em",
+        "",
+        "lo sabrán, porque unidos estamos en su amor",
+        "Em",
+        "Marcharemos unidos lado a lado en amor",
+        "Am                         Em",
+        "Marcharemos unidos lado a lado en amor",
+        "Am                                         Em",
+        "",
+        "anunciando que aquí se encuentra el gran poder de Dios",
+        "Em",
+        "Gloria al Padre que es fuente de toda bendición",
+        "Am                         Em",
+        "Gloria a Cristo su hijo que nos da la salvación",
+        "Am                        Em",
+        "Y a su Espíritu Santo que nos une en comunión"
+    ].join('\n')
+};

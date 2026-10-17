@@ -1,0 +1,30 @@
+export default {
+    nombre: "MI VIDA DI POR TI",
+    letra: [
+        "E-A-E-A",
+        "A             D         A        E       A",
+        "Mi vida di por ti y mi sangre derrame",
+        "A                D            A      E       A",
+        "por ti inmolado fui y por gracia te salve",
+        "E                 A                         E                A",
+        "//por ti, por ti inmolado fui ¿que has dado tu por mi?//",
+        "A                  D         A      E            A",
+        "Mi celestial mansión, mi trono de esplendor",
+        "A               D        A       E      A",
+        "deje por rescatar al mundo pecador",
+        "E            A                   E                A",
+        "//si todo yo deje por ti ¿que dejas tu por mi?//",
+        "A                 D          A        E       A",
+        "Reproches, aflicción y angustias yo sufrí",
+        "A                D          A       E      A",
+        "la copa amarga fue que yo por ti bebí",
+        "E                 A                  E                A",
+        "//reproches yo por ti sufrí ¿que sufres tu por mi?//",
+        "A                 D         A         E     A",
+        "De mi celeste hogar te traigo el rico don",
+        "A                      D        A      E       A",
+        "Del padre Dios de amor, la plena salvación",
+        "E                     A                       E                A",
+        "//mi don de amor te traigo a ti ¿que ofreces tu por mi?//"
+    ].join('\n')
+};
